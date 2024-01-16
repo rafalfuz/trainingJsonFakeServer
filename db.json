@@ -1,13 +1,16 @@
 {
   "tasks": [
     { 
+      "id":1,
       "name": "Sprzątanie", 
       "done": true 
     },
-    { "name": "Siłownia",
+    { "id":2,
+      "name": "Siłownia",
       "done": true 
     },
-    { "name": "Zakupy",
+    { "id":3,
+      "name": "Zakupy",
       "done": false 
     }
   ]
