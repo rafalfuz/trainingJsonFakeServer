@@ -1,7 +1,14 @@
 {
   "tasks": [
-    { "name": "Sprzątanie", "done": "true" },
-    { "name": "Siłownia", "done": "true" },
-    { "name": "Zakupy", "done": "false" },
-  ],
+    { 
+      "name": "Sprzątanie", 
+      "done": true 
+    },
+    { "name": "Siłownia",
+      "done": true 
+    },
+    { "name": "Zakupy",
+      "done": false 
+    }
+  ]
 }
